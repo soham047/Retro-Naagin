@@ -48,6 +48,6 @@ cd Retro-Naagin
 This project is licensed under the MIT License.
 Feel free to modify and distribute.
 
-#⭐ Show Some Love
+# ⭐ Show Some Love
 If you enjoy the game, give the repository a ⭐ on GitHub!
 Happy gaming! 🎉🐍
